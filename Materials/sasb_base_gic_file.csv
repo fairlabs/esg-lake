@@ -1,0 +1,422 @@
+sector,industry,gic
+Consumer Goods,"Apparel, Accessories & Footwear",250
+Consumer Goods,"Apparel, Accessories & Footwear",430
+Consumer Goods,"Apparel, Accessories & Footwear",440
+Consumer Goods,Appliance Manufacturing,250
+Consumer Goods,Appliance Manufacturing,410
+Consumer Goods,Building Products & Furnishings,130
+Consumer Goods,Building Products & Furnishings,250
+Consumer Goods,Building Products & Furnishings,410
+Consumer Goods,Building Products & Furnishings,430
+Consumer Goods,E-Commerce,130
+Consumer Goods,E-Commerce,220
+Consumer Goods,E-Commerce,230
+Consumer Goods,E-Commerce,330
+Consumer Goods,E-Commerce,410
+Consumer Goods,Household & Personal Products,140
+Consumer Goods,Household & Personal Products,250
+Consumer Goods,Household & Personal Products,410
+Consumer Goods,Household & Personal Products,430
+Consumer Goods,Multiline and Specialty Retailers & Distributors,130
+Consumer Goods,Multiline and Specialty Retailers & Distributors,230
+Consumer Goods,Multiline and Specialty Retailers & Distributors,310
+Consumer Goods,Multiline and Specialty Retailers & Distributors,330
+Consumer Goods,Multiline and Specialty Retailers & Distributors,410
+Consumer Goods,Toys & Sporting Goods,250
+Consumer Goods,Toys & Sporting Goods,430
+Extractives & Minerals Processing,Construction Materials,110
+Extractives & Minerals Processing,Construction Materials,120
+Extractives & Minerals Processing,Construction Materials,130
+Extractives & Minerals Processing,Construction Materials,140
+Extractives & Minerals Processing,Construction Materials,150
+Extractives & Minerals Processing,Construction Materials,160
+Extractives & Minerals Processing,Construction Materials,320
+Extractives & Minerals Processing,Construction Materials,410
+Extractives & Minerals Processing,Construction Materials,520
+Extractives & Minerals Processing,Coal Operations,110
+Extractives & Minerals Processing,Coal Operations,140
+Extractives & Minerals Processing,Coal Operations,150
+Extractives & Minerals Processing,Coal Operations,160
+Extractives & Minerals Processing,Coal Operations,210
+Extractives & Minerals Processing,Coal Operations,310
+Extractives & Minerals Processing,Coal Operations,320
+Extractives & Minerals Processing,Coal Operations,420
+Extractives & Minerals Processing,Coal Operations,540
+Extractives & Minerals Processing,Oil & Gas – Exploration & Production,110
+Extractives & Minerals Processing,Oil & Gas – Exploration & Production,120
+Extractives & Minerals Processing,Oil & Gas – Exploration & Production,140
+Extractives & Minerals Processing,Oil & Gas – Exploration & Production,160
+Extractives & Minerals Processing,Oil & Gas – Exploration & Production,210
+Extractives & Minerals Processing,Oil & Gas – Exploration & Production,320
+Extractives & Minerals Processing,Oil & Gas – Exploration & Production,420
+Extractives & Minerals Processing,Oil & Gas – Exploration & Production,510
+Extractives & Minerals Processing,Oil & Gas – Exploration & Production,530
+Extractives & Minerals Processing,Oil & Gas – Exploration & Production,540
+Extractives & Minerals Processing,Iron & Steel Producers,110
+Extractives & Minerals Processing,Iron & Steel Producers,120
+Extractives & Minerals Processing,Iron & Steel Producers,130
+Extractives & Minerals Processing,Iron & Steel Producers,140
+Extractives & Minerals Processing,Iron & Steel Producers,150
+Extractives & Minerals Processing,Iron & Steel Producers,320
+Extractives & Minerals Processing,Iron & Steel Producers,430
+Extractives & Minerals Processing,Oil & Gas – Midstream,110
+Extractives & Minerals Processing,Oil & Gas – Midstream,120
+Extractives & Minerals Processing,Oil & Gas – Midstream,160
+Extractives & Minerals Processing,Oil & Gas – Midstream,520
+Extractives & Minerals Processing,Oil & Gas – Midstream,540
+Extractives & Minerals Processing,Metals & Mining,110
+Extractives & Minerals Processing,Metals & Mining,120
+Extractives & Minerals Processing,Metals & Mining,130
+Extractives & Minerals Processing,Metals & Mining,140
+Extractives & Minerals Processing,Metals & Mining,150
+Extractives & Minerals Processing,Metals & Mining,160
+Extractives & Minerals Processing,Metals & Mining,210
+Extractives & Minerals Processing,Metals & Mining,310
+Extractives & Minerals Processing,Metals & Mining,320
+Extractives & Minerals Processing,Metals & Mining,510
+Extractives & Minerals Processing,Metals & Mining,540
+Extractives & Minerals Processing,Oil & Gas – Refining & Marketing,110
+Extractives & Minerals Processing,Oil & Gas – Refining & Marketing,120
+Extractives & Minerals Processing,Oil & Gas – Refining & Marketing,140
+Extractives & Minerals Processing,Oil & Gas – Refining & Marketing,150
+Extractives & Minerals Processing,Oil & Gas – Refining & Marketing,320
+Extractives & Minerals Processing,Oil & Gas – Refining & Marketing,410
+Extractives & Minerals Processing,Oil & Gas – Refining & Marketing,520
+Extractives & Minerals Processing,Oil & Gas – Refining & Marketing,530
+Extractives & Minerals Processing,Oil & Gas – Refining & Marketing,540
+Extractives & Minerals Processing,Oil & Gas – Services,110
+Extractives & Minerals Processing,Oil & Gas – Services,140
+Extractives & Minerals Processing,Oil & Gas – Services,150
+Extractives & Minerals Processing,Oil & Gas – Services,160
+Extractives & Minerals Processing,Oil & Gas – Services,320
+Extractives & Minerals Processing,Oil & Gas – Services,510
+Extractives & Minerals Processing,Oil & Gas – Services,530
+Extractives & Minerals Processing,Oil & Gas – Services,540
+Food & Beverage,Alcoholic Beverages,130
+Food & Beverage,Alcoholic Beverages,140
+Food & Beverage,Alcoholic Beverages,270
+Food & Beverage,Alcoholic Beverages,410
+Food & Beverage,Alcoholic Beverages,430
+Food & Beverage,Alcoholic Beverages,440
+Food & Beverage,Agricultural Products,110
+Food & Beverage,Agricultural Products,130
+Food & Beverage,Agricultural Products,140
+Food & Beverage,Agricultural Products,250
+Food & Beverage,Agricultural Products,320
+Food & Beverage,Agricultural Products,430
+Food & Beverage,Agricultural Products,440
+Food & Beverage,Food Retailers & Distributors,110
+Food & Beverage,Food Retailers & Distributors,130
+Food & Beverage,Food Retailers & Distributors,150
+Food & Beverage,Food Retailers & Distributors,230
+Food & Beverage,Food Retailers & Distributors,250
+Food & Beverage,Food Retailers & Distributors,260
+Food & Beverage,Food Retailers & Distributors,270
+Food & Beverage,Food Retailers & Distributors,310
+Food & Beverage,Food Retailers & Distributors,430
+Food & Beverage,"Meat, Poultry & Dairy",110
+Food & Beverage,"Meat, Poultry & Dairy",130
+Food & Beverage,"Meat, Poultry & Dairy",140
+Food & Beverage,"Meat, Poultry & Dairy",160
+Food & Beverage,"Meat, Poultry & Dairy",250
+Food & Beverage,"Meat, Poultry & Dairy",260
+Food & Beverage,"Meat, Poultry & Dairy",320
+Food & Beverage,"Meat, Poultry & Dairy",410
+Food & Beverage,"Meat, Poultry & Dairy",430
+Food & Beverage,"Meat, Poultry & Dairy",440
+Food & Beverage,Non-Alcoholic Beverages,110
+Food & Beverage,Non-Alcoholic Beverages,130
+Food & Beverage,Non-Alcoholic Beverages,140
+Food & Beverage,Non-Alcoholic Beverages,260
+Food & Beverage,Non-Alcoholic Beverages,270
+Food & Beverage,Non-Alcoholic Beverages,410
+Food & Beverage,Non-Alcoholic Beverages,430
+Food & Beverage,Non-Alcoholic Beverages,440
+Food & Beverage,Processed Foods,130
+Food & Beverage,Processed Foods,140
+Food & Beverage,Processed Foods,250
+Food & Beverage,Processed Foods,260
+Food & Beverage,Processed Foods,270
+Food & Beverage,Processed Foods,410
+Food & Beverage,Processed Foods,430
+Food & Beverage,Processed Foods,440
+Food & Beverage,Restaurants,130
+Food & Beverage,Restaurants,140
+Food & Beverage,Restaurants,150
+Food & Beverage,Restaurants,250
+Food & Beverage,Restaurants,260
+Food & Beverage,Restaurants,310
+Food & Beverage,Restaurants,430
+Food & Beverage,Tobacco,260
+Food & Beverage,Tobacco,270
+Financials,Asset Management & Custody Activities,270
+Financials,Asset Management & Custody Activities,330
+Financials,Asset Management & Custody Activities,410
+Financials,Asset Management & Custody Activities,510
+Financials,Commercial Banks,230
+Financials,Commercial Banks,240
+Financials,Commercial Banks,410
+Financials,Commercial Banks,510
+Financials,Commercial Banks,550
+Financials,Consumer Finance,220
+Financials,Consumer Finance,230
+Financials,Consumer Finance,270
+Financials,Security & Commodity Exchanges,410
+Financials,Security & Commodity Exchanges,510
+Financials,Security & Commodity Exchanges,550
+Financials,Investment Banking & Brokerage,330
+Financials,Investment Banking & Brokerage,410
+Financials,Investment Banking & Brokerage,510
+Financials,Investment Banking & Brokerage,550
+Financials,Insurance,270
+Financials,Insurance,410
+Financials,Insurance,450
+Financials,Insurance,550
+Financials,Mortgage Finance,270
+Financials,Mortgage Finance,450
+Health Care,Biotechnology & Pharmaceuticals,210
+Health Care,Biotechnology & Pharmaceuticals,240
+Health Care,Biotechnology & Pharmaceuticals,250
+Health Care,Biotechnology & Pharmaceuticals,260
+Health Care,Biotechnology & Pharmaceuticals,270
+Health Care,Biotechnology & Pharmaceuticals,330
+Health Care,Biotechnology & Pharmaceuticals,430
+Health Care,Biotechnology & Pharmaceuticals,510
+Health Care,Health Care Distributors,110
+Health Care,Health Care Distributors,250
+Health Care,Health Care Distributors,260
+Health Care,Health Care Distributors,410
+Health Care,Health Care Distributors,510
+Health Care,Drug Retailers,130
+Health Care,Drug Retailers,230
+Health Care,Drug Retailers,250
+Health Care,Drug Retailers,260
+Health Care,Health Care Delivery,130
+Health Care,Health Care Delivery,150
+Health Care,Health Care Delivery,230
+Health Care,Health Care Delivery,240
+Health Care,Health Care Delivery,250
+Health Care,Health Care Delivery,260
+Health Care,Health Care Delivery,270
+Health Care,Health Care Delivery,320
+Health Care,Health Care Delivery,330
+Health Care,Health Care Delivery,450
+Health Care,Health Care Delivery,510
+Health Care,Managed Care,230
+Health Care,Managed Care,240
+Health Care,Managed Care,250
+Health Care,Managed Care,260
+Health Care,Managed Care,450
+Health Care,Medical Equipment & Supplies,240
+Health Care,Medical Equipment & Supplies,250
+Health Care,Medical Equipment & Supplies,270
+Health Care,Medical Equipment & Supplies,410
+Health Care,Medical Equipment & Supplies,430
+Health Care,Medical Equipment & Supplies,510
+Infrastructure,Engineering & Construction Services,160
+Infrastructure,Engineering & Construction Services,250
+Infrastructure,Engineering & Construction Services,320
+Infrastructure,Engineering & Construction Services,410
+Infrastructure,Engineering & Construction Services,510
+Infrastructure,Electric Utilities & Power Generators,110
+Infrastructure,Electric Utilities & Power Generators,120
+Infrastructure,Electric Utilities & Power Generators,140
+Infrastructure,Electric Utilities & Power Generators,150
+Infrastructure,Electric Utilities & Power Generators,240
+Infrastructure,Electric Utilities & Power Generators,320
+Infrastructure,Electric Utilities & Power Generators,420
+Infrastructure,Electric Utilities & Power Generators,540
+Infrastructure,Electric Utilities & Power Generators,550
+Infrastructure,Gas Utilities & Distributors,240
+Infrastructure,Gas Utilities & Distributors,420
+Infrastructure,Gas Utilities & Distributors,540
+Infrastructure,Home Builders,160
+Infrastructure,Home Builders,320
+Infrastructure,Home Builders,410
+Infrastructure,Home Builders,420
+Infrastructure,Real Estate,130
+Infrastructure,Real Estate,140
+Infrastructure,Real Estate,410
+Infrastructure,Real Estate,450
+Infrastructure,Real Estate Services,410
+Infrastructure,Real Estate Services,510
+Infrastructure,Waste Management,110
+Infrastructure,Waste Management,120
+Infrastructure,Waste Management,150
+Infrastructure,Waste Management,310
+Infrastructure,Waste Management,320
+Infrastructure,Waste Management,420
+Infrastructure,Water Utilities & Services,130
+Infrastructure,Water Utilities & Services,140
+Infrastructure,Water Utilities & Services,240
+Infrastructure,Water Utilities & Services,250
+Infrastructure,Water Utilities & Services,420
+Infrastructure,Water Utilities & Services,440
+Infrastructure,Water Utilities & Services,450
+Renewable Resources & Alternative Energy,Biofuels,120
+Renewable Resources & Alternative Energy,Biofuels,140
+Renewable Resources & Alternative Energy,Biofuels,410
+Renewable Resources & Alternative Energy,Biofuels,430
+Renewable Resources & Alternative Energy,Biofuels,530
+Renewable Resources & Alternative Energy,Biofuels,540
+Renewable Resources & Alternative Energy,Fuel Cells & Industrial Batteries,130
+Renewable Resources & Alternative Energy,Fuel Cells & Industrial Batteries,320
+Renewable Resources & Alternative Energy,Fuel Cells & Industrial Batteries,410
+Renewable Resources & Alternative Energy,Fuel Cells & Industrial Batteries,440
+Renewable Resources & Alternative Energy,Forestry Management,160
+Renewable Resources & Alternative Energy,Forestry Management,210
+Renewable Resources & Alternative Energy,Forestry Management,450
+Renewable Resources & Alternative Energy,Pulp & Paper Products,110
+Renewable Resources & Alternative Energy,Pulp & Paper Products,120
+Renewable Resources & Alternative Energy,Pulp & Paper Products,130
+Renewable Resources & Alternative Energy,Pulp & Paper Products,140
+Renewable Resources & Alternative Energy,Pulp & Paper Products,430
+Renewable Resources & Alternative Energy,Solar Technology & Project Developers,130
+Renewable Resources & Alternative Energy,Solar Technology & Project Developers,140
+Renewable Resources & Alternative Energy,Solar Technology & Project Developers,150
+Renewable Resources & Alternative Energy,Solar Technology & Project Developers,160
+Renewable Resources & Alternative Energy,Solar Technology & Project Developers,410
+Renewable Resources & Alternative Energy,Solar Technology & Project Developers,440
+Renewable Resources & Alternative Energy,Wind Technology & Project Developers,320
+Renewable Resources & Alternative Energy,Wind Technology & Project Developers,410
+Renewable Resources & Alternative Energy,Wind Technology & Project Developers,440
+Resource Transformation,Aerospace & Defence,130
+Resource Transformation,Aerospace & Defence,150
+Resource Transformation,Aerospace & Defence,230
+Resource Transformation,Aerospace & Defence,250
+Resource Transformation,Aerospace & Defence,410
+Resource Transformation,Aerospace & Defence,440
+Resource Transformation,Aerospace & Defence,510
+Resource Transformation,Chemicals,110
+Resource Transformation,Chemicals,120
+Resource Transformation,Chemicals,130
+Resource Transformation,Chemicals,140
+Resource Transformation,Chemicals,150
+Resource Transformation,Chemicals,210
+Resource Transformation,Chemicals,320
+Resource Transformation,Chemicals,410
+Resource Transformation,Chemicals,530
+Resource Transformation,Chemicals,540
+Resource Transformation,Containers & Packaging,110
+Resource Transformation,Containers & Packaging,120
+Resource Transformation,Containers & Packaging,130
+Resource Transformation,Containers & Packaging,140
+Resource Transformation,Containers & Packaging,150
+Resource Transformation,Containers & Packaging,250
+Resource Transformation,Containers & Packaging,410
+Resource Transformation,Containers & Packaging,430
+Resource Transformation,Electrical & Electronic Equipment,130
+Resource Transformation,Electrical & Electronic Equipment,150
+Resource Transformation,Electrical & Electronic Equipment,250
+Resource Transformation,Electrical & Electronic Equipment,410
+Resource Transformation,Electrical & Electronic Equipment,440
+Resource Transformation,Electrical & Electronic Equipment,510
+Resource Transformation,Industrial Machinery & Goods,130
+Resource Transformation,Industrial Machinery & Goods,320
+Resource Transformation,Industrial Machinery & Goods,410
+Resource Transformation,Industrial Machinery & Goods,440
+Services,Advertising & Marketing,220
+Services,Advertising & Marketing,270
+Services,Advertising & Marketing,330
+Services,Casinos & Gaming,130
+Services,Casinos & Gaming,260
+Services,Casinos & Gaming,320
+Services,Casinos & Gaming,510
+Services,Education,230
+Services,Education,260
+Services,Education,270
+Services,Hotels & Lodging,130
+Services,Hotels & Lodging,140
+Services,Hotels & Lodging,160
+Services,Hotels & Lodging,310
+Services,Hotels & Lodging,450
+Services,Leisure Facilities,130
+Services,Leisure Facilities,250
+Services,Leisure Facilities,320
+Services,Media & Entertainment,260
+Services,Media & Entertainment,270
+Services,Media & Entertainment,520
+Services,Professional & Commercial Services,230
+Services,Professional & Commercial Services,330
+Services,Professional & Commercial Services,510
+Technology & Communications,Electronic Manufacturing Services & Original Design Manufacturing,140
+Technology & Communications,Electronic Manufacturing Services & Original Design Manufacturing,150
+Technology & Communications,Electronic Manufacturing Services & Original Design Manufacturing,310
+Technology & Communications,Electronic Manufacturing Services & Original Design Manufacturing,320
+Technology & Communications,Electronic Manufacturing Services & Original Design Manufacturing,410
+Technology & Communications,Electronic Manufacturing Services & Original Design Manufacturing,440
+Technology & Communications,Hardware,230
+Technology & Communications,Hardware,330
+Technology & Communications,Hardware,410
+Technology & Communications,Hardware,430
+Technology & Communications,Hardware,440
+Technology & Communications,Internet Media & Services,130
+Technology & Communications,Internet Media & Services,220
+Technology & Communications,Internet Media & Services,230
+Technology & Communications,Internet Media & Services,330
+Technology & Communications,Internet Media & Services,520
+Technology & Communications,Semiconductors,110
+Technology & Communications,Semiconductors,130
+Technology & Communications,Semiconductors,140
+Technology & Communications,Semiconductors,150
+Technology & Communications,Semiconductors,320
+Technology & Communications,Semiconductors,330
+Technology & Communications,Semiconductors,410
+Technology & Communications,Semiconductors,440
+Technology & Communications,Semiconductors,520
+Technology & Communications,Software & IT Services,130
+Technology & Communications,Software & IT Services,220
+Technology & Communications,Software & IT Services,230
+Technology & Communications,Software & IT Services,330
+Technology & Communications,Software & IT Services,520
+Technology & Communications,Software & IT Services,550
+Technology & Communications,Telecommunication Services,130
+Technology & Communications,Telecommunication Services,220
+Technology & Communications,Telecommunication Services,230
+Technology & Communications,Telecommunication Services,440
+Technology & Communications,Telecommunication Services,520
+Technology & Communications,Telecommunication Services,550
+Transportation,Air Freight & Logistics,110
+Transportation,Air Freight & Logistics,120
+Transportation,Air Freight & Logistics,310
+Transportation,Air Freight & Logistics,320
+Transportation,Air Freight & Logistics,430
+Transportation,Air Freight & Logistics,540
+Transportation,Airlines,110
+Transportation,Airlines,310
+Transportation,Airlines,520
+Transportation,Airlines,540
+Transportation,Auto Parts,130
+Transportation,Auto Parts,150
+Transportation,Auto Parts,250
+Transportation,Auto Parts,410
+Transportation,Auto Parts,440
+Transportation,Auto Parts,520
+Transportation,Automobiles,250
+Transportation,Automobiles,310
+Transportation,Automobiles,410
+Transportation,Automobiles,440
+Transportation,Cruise Lines,110
+Transportation,Cruise Lines,120
+Transportation,Cruise Lines,160
+Transportation,Cruise Lines,250
+Transportation,Cruise Lines,310
+Transportation,Cruise Lines,320
+Transportation,Cruise Lines,540
+Transportation,Car Rental & Leasing,250
+Transportation,Car Rental & Leasing,410
+Transportation,Marine Transportation,110
+Transportation,Marine Transportation,120
+Transportation,Marine Transportation,160
+Transportation,Marine Transportation,320
+Transportation,Marine Transportation,510
+Transportation,Marine Transportation,540
+Transportation,Rail Transportation,110
+Transportation,Rail Transportation,120
+Transportation,Rail Transportation,320
+Transportation,Rail Transportation,520
+Transportation,Rail Transportation,540
+Transportation,Road Transportation,110
+Transportation,Road Transportation,120
+Transportation,Road Transportation,320
+Transportation,Road Transportation,540
