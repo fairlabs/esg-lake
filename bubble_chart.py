@@ -7,9 +7,7 @@ import plotly.graph_objects as go
 import re
 from sqlalchemy import create_engine
 import time
-# from dotenv import load_dotenv
 import streamlit as st
-import os
 
 from exposure_pct_class import get_data_from_mysql
 

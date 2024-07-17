@@ -1,17 +1,13 @@
 import mysql.connector
 from sqlalchemy import create_engine
 from sqlalchemy.exc import SQLAlchemyError
-import psycopg2
-from psycopg2 import OperationalError
 
 import re
 import pandas as pd
-import numpy as np
+
 import matplotlib.pyplot as plt
 import seaborn as sns
-# from dotenv import load_dotenv
 import streamlit as st
-import os
 
 class get_data_from_mysql():
     

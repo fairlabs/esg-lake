@@ -1,12 +1,7 @@
 import streamlit as st
-import numpy as np
 import pandas as pd
 import datetime
 
-import time
-import matplotlib.pyplot as plt
-import mysql.connector
-import re
 import plotly.express as px
 import plotly.graph_objects as go
 
@@ -263,7 +258,7 @@ with left_col:
 
         # Display session state for debugging
         st.session_state.state['previous_dashboard_date_range'] = [start_date, end_date]
-        st.write(st.session_state)
+        # st.write(st.session_state)
 
 
 
