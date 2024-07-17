@@ -82,7 +82,8 @@ class get_data_from_mysql():
         return gic_info_dict
     
     def get_sasb_base_gic_df(self):
-        sasb_base_gic_df = pd.read_csv('./materials/sasb_base_gic_file.csv')
+        sasb_base_gic_df = pd.read_csv('https://github.com/fairlabs/esg-lake/blob/main/materials/sasb_base_gic_file.csv')
+        # sasb_base_gic_df = pd.read_csv('./materials/sasb_base_gic_file.csv')
         return sasb_base_gic_df
     
 
