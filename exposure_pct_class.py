@@ -82,8 +82,7 @@ class get_data_from_mysql():
         return gic_info_dict
     
     def get_sasb_base_gic_df(self):
-        sasb_base_gic_df = pd.read_csv('https://github.com/fairlabs/esg-lake/blob/main/materials/sasb_base_gic_file.csv')
-        # sasb_base_gic_df = pd.read_csv('./materials/sasb_base_gic_file.csv')
+        sasb_base_gic_df = pd.read_csv('./Materials/sasb_base_gic_file.csv')
         return sasb_base_gic_df
     
 
@@ -190,7 +189,7 @@ class group_risk_distribution(get_data_from_mysql):
         self.corp_name_to_corp_code = self.company_data[['corp_name_ko_clean', 'corp_code']].set_index('corp_name_ko_clean').to_dict()['corp_code']
         self.corp_code_to_name_dict, _ = super().company_info_mapping_dict()
         self.gic_dict = super().gic_info_mapping_dict()
-        self.sasb_base_gic_df = super().get_sasb_base_gic_df()
+        # self.sasb_base_gic_df = super().get_sasb_base_gic_df()
 
     
     def get_corp_codes(self):
